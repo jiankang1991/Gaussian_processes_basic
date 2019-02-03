@@ -1,4 +1,4 @@
-# Basics of Guassian processes 
+# Basics of Gaussian processes 
 ## References: http://bridg.land/posts/gaussian-processes-1 and Chapter 6 of PRML
 
 ---
